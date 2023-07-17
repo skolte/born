@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dmf-app-9e3f1": {
+      "hosting": {
+        "example-app": [
+          "dmf-app-9e3f1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dmf-app-9e3f1"
+  }
+}

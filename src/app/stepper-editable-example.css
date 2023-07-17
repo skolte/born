@@ -1,0 +1,67 @@
+.mat-stepper-horizontal {
+  margin-top: 8px;
+}
+mat-form-field {
+  width: 100%;
+}
+mat-icon {
+  height: 20px;
+  width: 20px;
+  font-size: 20px;
+  margin-right: 5px;
+}
+.mat-mdc-form-field {
+  margin-top: 16px;
+}
+::ng-deep .mat-step-header .mat-step-icon-state-done {
+  background-color: green; 
+}
+/* mat-card-title {
+  color: var(--color-primary);
+} */
+/* mat-icon {
+  color: var(--color-accent);
+} */
+
+/* .example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+.mat-expansion-panel-header-title {  
+  color: blue;
+}
+.example-full-width {
+  width: 100%;
+} */
+
+/* .example-option-img {
+  vertical-align: middle;
+} */
+
+/* .example-action-buttons {
+  padding-bottom: 20px;
+}
+
+.example-headers-align .mat-expansion-panel-header-title,
+.example-headers-align .mat-expansion-panel-header-description {
+  flex-basis: 0;
+}
+
+.example-headers-align .mat-expansion-panel-header-description {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.example-headers-align .mat-form-field + .mat-form-field {
+  margin-left: 8px;
+}
+
+.my-panel { 
+  width: 100%;
+  display: flex;
+  justify-content: space-between;  
+} 
+.my-panel button {
+    margin: 15px 25px;
+  }  */
